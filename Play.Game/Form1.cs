@@ -522,7 +522,7 @@ namespace Play.Game
             g.DrawString("C", Large, whiteBrush, Width / 2 - 100, Height / 2 - 100);
             g.DrawString("Rams", drawFont, whiteBrush, Width / 2 - 50, Height / 2 - 75);
 
-            Thread.Sleep(7500);
+            Thread.Sleep(5000);
 
             BackColor = Color.Black;
 
